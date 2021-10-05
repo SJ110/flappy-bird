@@ -1,2 +1,2 @@
 # flappy-bird
-ios 动画小demo，oc实现。
+ios 动画小demo，使用oc实现。
